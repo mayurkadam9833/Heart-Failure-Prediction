@@ -6,7 +6,7 @@ matplotlib
 python-box==6.0.2
 pyYMAL 
 ensure==1.0.2
-joblib 
+pickle
 types-pyYmal
 streamlit
 
