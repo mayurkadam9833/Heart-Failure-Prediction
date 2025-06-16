@@ -10,6 +10,7 @@ project_name="Heart Failure Prediction"
 list_of_file=[
     f"src/{project_name}/__init__.py", 
     f"src/{project_name}/components/__init__.py", 
+    f"src/{project_name}/logging/__init__.py",
     f"src/{project_name}/utils/__init__.py", 
     f"src/{project_name}/utils/common.py", 
     f"src/{project_name}/config/__init__.py", 
